@@ -3,7 +3,7 @@
 This project provides an OpenGL-based 3D animation of the Solar System. The animation includes rotating planets and a variety of celestial features. It uses the Python programming language, along with several libraries to achieve its goals.
 
 # OpenGL and PIL code
-# The code is long and spans many lines, providing functionality for drawing a solar system simulation.
+# Functionality for drawing a solar system simulation.
 # Includes code for drawing the sun, mercury, venus, earth, mars, jupiter, saturn, and uranus.
 # Uses texture mapping for each planet and stars.
 # Allows toggling of lighting with the 'l' key.
@@ -11,7 +11,6 @@ This project provides an OpenGL-based 3D animation of the Solar System. The anim
 # Manages OpenGL textures and handles different light sources.
 # Uses GLU for quadrics and GL functions for 3D transformations and shading.
 # Assumes the images are available in the current directory for texture mapping.
-# For brevity, the actual code for drawing the solar system objects is not shown in this representation.
 
 ## Table of Contents
 
