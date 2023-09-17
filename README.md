@@ -10,7 +10,7 @@ This project provides an OpenGL-based 3D animation of the Solar System. The anim
 # Utilizes GLUT for the rendering loop and keyboard inputs.
 # Manages OpenGL textures and handles different light sources.
 # Uses GLU for quadrics and GL functions for 3D transformations and shading.
-# Assumes the images are available in the current directory for texture mapping.
+
 
 ## Table of Contents
 
